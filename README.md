@@ -16,6 +16,11 @@ This application is built using the following modern stack:
 -   **shadcn-ui** / **Radix UI**: A collection of high-quality, accessible UI components.
 -   **Tailwind CSS**: A utility-first framework for rapid styling and customization.
 
+##💻Website:
+➜ Local: http://localhost:8080/
+➜ Network: http://192.168.1.9:8080/
+
+
 ## 💻 Local Development Setup
 
 To get a local copy of this project running, you only need Node.js and npm installed on your system.
